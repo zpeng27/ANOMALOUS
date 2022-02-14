@@ -1,9 +1,6 @@
 # ANOMALOUS
 ANOMALOUS: A Joint Modeling Approach for Anomaly Detection on Attributed Networks (Peng Z, Luo M, Li J, *et al.*, IJCAI 2018): [https://www.ijcai.org/proceedings/2018/488](https://www.ijcai.org/proceedings/2018/488)
 
-![image](https://github.com/zpeng27/ANOMALOUS/blob/main/illustration.jpg)
-
-
 ## Overview
 Here we give a MATLAB implementation of ANOMALOUS. We display it in an easy-to-read form. You could further optimize the code based on your own needs. 
 
